@@ -1,15 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music HD
-https://playlive.goonj.pk/8xmweb_480p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8xm Bharam Say Music HD
+https://cdn6.mjunoon.tv:8087/web/8XM-131/live/131H/chunks.m3u8?nimblesessionid=6720422&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIwIDU6MDg6MDQgUE0maGFzaF92YWx1ZT11ZTFBeUZuRHA5QVFLNGJLazBPRGVRPT0mdmFsaWRtaW51dGVzPTE=
 
-#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8X Music SD
-https://cdn7.mjunoon.tv:8087/web/8XM-131/live/131H/chunks.m3u8?nimblesessionid=6025173&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDU6MDU6NDEgUE0maGFzaF92YWx1ZT1hWUNheDRwZjY2U2s2YmpLdzBiMlRBPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Music",8xm Bharam Say SD
+https://cdn6.mjunoon.tv:8087/web/8XM-131/live/131M/chunks.m3u8?nimblesessionid=6720422&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIwIDU6MDg6MDQgUE0maGFzaF92YWx1ZT11ZTFBeUZuRHA5QVFLNGJLazBPRGVRPT0mdmFsaWRtaW51dGVzPTE=
 
-#EXTINF:-1 tvg-country="PK" tvg-logo="http://www.9xjalwa.in/img/logo-9xm.png" group-title="Music" ,IN: 9X JALAWA
+
+#EXTINF:-1 tvg-country="PK" tvg-logo="http://www.9xjalwa.in/img/logo-9xm.png" group-title="Music" ,IN: 9XM JALAWA
 http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
 
-#EXTINF:-1 tvg-country="PK" tvg-logo="http://www.9xjalwa.in/img/logo-9xm.png" group-title="Music" ,IN: 9X JALAWA SD
-https://cdn6.mjunoon.tv:8087/web/JalwaTV-135/live/135M/chunks.m3u8?nimblesessionid=6023371&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIwIDU6MDY6NTAgUE0maGFzaF92YWx1ZT13ZzRUK0hvT2FBVWc1VmtBNGhwY0pBPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1 tvg-country="PK" tvg-logo="http://www.9xjalwa.in/img/logo-9xm.png" group-title="Music" ,IN: 9XM JALAWA SD
+https://cdn6.mjunoon.tv:8087/web/JalwaTV-135/live/135M/chunks.m3u8?nimblesessionid=6720650&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIwIDU6MTU6NTQgUE0maGFzaF92YWx1ZT05QTZqNjZhM0VqdzluMmU5K3huam9nPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-country="PK" tvg-logo="https://www.9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="Music" ,IN: 9XM SD
 http://103.205.133.14/hls/9xm.m3u8
