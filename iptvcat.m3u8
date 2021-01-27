@@ -1,0 +1,324 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",8XM HD
+http://rv.therevenge.co:80/565656/565656/84023?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",8XM HD
+http://rv.therevenge.co:80/live/11223344/11223344/84023.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",92 NEWS HD
+http://rv.therevenge.co:80/565656/565656/84102?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",92 NEWS HD
+http://rv.therevenge.co:80/live/11223344/11223344/84102.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",92 NEWS HD
+http://185.71.64.167:80/307245103371/307245103371/84102?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",92 NEWS HD
+http://rv.therevenge.co:80/live/242424/242424/84102.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Undefined",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",A PLUS
+http://rv.therevenge.co:80/565656/565656/84094?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",A PLUS
+http://rv.therevenge.co:80/live/242424/242424/84094.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",AAJ ENTERTAINMENT
+http://rv.therevenge.co:80/565656/565656/84099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",AAJ ENTERTAINMENT
+http://185.71.64.167:80/307245103371/307245103371/84099?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",AAJ ENTERTAINMENT
+http://rv.therevenge.co:80/live/11223344/11223344/84099.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",AAJ NEWS
+http://rv.therevenge.co:80/live/11223344/11223344/84089.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",AAJ NEWS
+http://rv.therevenge.co:80/565656/565656/84089?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",AAJ NEWS
+http://rv.therevenge.co:80/live/242424/242424/84089.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ABBTAKK NEWS
+http://185.71.64.167:80/307245103371/307245103371/84068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",APNA CHANNEL
+http://rv.therevenge.co:80/565656/565656/84069?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",APNA CHANNEL
+http://rv.therevenge.co:80/live/242424/242424/84069.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY DIGITAL
+http://rv.therevenge.co:80/live/11223344/11223344/84109.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY DIGITAL
+http://rv.therevenge.co:80/live/242424/242424/84109.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY DIGITAL
+http://185.71.64.167:80/307245103371/307245103371/84109?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY FAMILY
+http://rv.therevenge.co:80/565656/565656/84107?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY FAMILY
+http://rv.therevenge.co:80/live/11223344/11223344/84107.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY MUSIK
+http://rv.therevenge.co:80/live/11223344/11223344/84025.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY MUSIK
+http://rv.therevenge.co:80/565656/565656/84025?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY NEWS
+http://rv.therevenge.co:80/live/11223344/11223344/84108.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY NEWS
+http://rv.therevenge.co:80/live/242424/242424/84108.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY QTV
+http://rv.therevenge.co:80/565656/565656/84048?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY QTV
+http://rv.therevenge.co:80/live/242424/242424/84048.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY ZINDAGI
+http://185.71.64.167:80/307245103371/307245103371/84095?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY ZINDAGI
+http://rv.therevenge.co:80/live/242424/242424/84095.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ATV ENTERTAINMENT
+http://rv.therevenge.co:80/565656/565656/84096?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY ZINDAGI
+http://rv.therevenge.co:80/live/11223344/11223344/84095.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",ARY ZINDAGI
+http://rv.therevenge.co:80/565656/565656/84095?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",AVT KHYBER
+http://rv.therevenge.co:80/565656/565656/84070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",BOL ENTERTAINMENT HD
+http://rv.therevenge.co:80/565656/565656/84038?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",BOL ENTERTAINMENT HD
+http://rv.therevenge.co:80/live/11223344/11223344/84038.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",BOL NEWS HD
+http://rv.therevenge.co:80/565656/565656/84100?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",BOL NEWS HD
+http://rv.therevenge.co:80/live/242424/242424/84100.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",BOL NEWS UHD
+http://rv.therevenge.co:80/565656/565656/84088?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://rv.therevenge.co:80/565656/565656/84053?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD
+http://rv.therevenge.co:80/live/242424/242424/84054.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD
+http://rv.therevenge.co:80/live/11223344/11223344/84054.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD
+http://rv.therevenge.co:80/565656/565656/84054?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CHANNEL 24 HD
+http://rv.therevenge.co:80/565656/565656/84072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CHANNEL 24 HD
+http://185.71.64.167:80/307245103371/307245103371/84072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CHANNEL 5
+http://rv.therevenge.co:80/live/242424/242424/84059.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CITY 41
+http://rv.therevenge.co:80/live/11223344/11223344/84082.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CITY 41
+http://rv.therevenge.co:80/565656/565656/84082?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CITY 42
+http://rv.therevenge.co:80/565656/565656/84081?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",CITY 42
+http://rv.therevenge.co:80/live/242424/242424/84081.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DAWN NEWS
+http://rv.therevenge.co:80/live/242424/242424/84087.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DAWN NEWS
+http://rv.therevenge.co:80/565656/565656/84087?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG ACTION HD
+http://rv.therevenge.co:80/live/11223344/11223344/84016.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG ACTION HD
+http://rv.therevenge.co:80/live/242424/242424/84016.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG CINEMA HD
+http://rv.therevenge.co:80/live/11223344/11223344/84017.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG HITS HD
+http://rv.therevenge.co:80/565656/565656/84020?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG CINEMA HD
+http://rv.therevenge.co:80/565656/565656/84017?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG MOVIES HD
+http://rv.therevenge.co:80/live/11223344/11223344/84018.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG MOVIES HD
+http://rv.therevenge.co:80/live/242424/242424/84018.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG MUSIC HD
+http://rv.therevenge.co:80/565656/565656/84026?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG MOVIES HD
+http://rv.therevenge.co:80/565656/565656/84018?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG MUSIC HD
+http://rv.therevenge.co:80/live/11223344/11223344/84026.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG PLUS HD
+http://rv.therevenge.co:80/565656/565656/84019?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",DMG SHOPPING HD
+http://rv.therevenge.co:80/565656/565656/84021?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Music",ACN Music
+http://ammacable.com:1935/acn/acnmusic/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",BollyWood Hd
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" group-title="Undefined",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="Undefined",Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" group-title="Music",Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/media_one_in.png" group-title="News",Media One
+https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",PUNJAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJABITVV.jpg" group-title="Undefined",Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY TV FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/66136.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY TV FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/66136?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY SAB HD
+http://rv.therevenge.co:80/live/11223344/11223344/83701.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY SAB HD
+http://185.71.64.167:80/307245103371/307245103371/83701?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY SAB HD
+http://rv.therevenge.co:80/live/242424/242424/83701.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY SAB HD
+http://rv.therevenge.co:80/565656/565656/83701?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY WAH
+http://rv.therevenge.co:80/live/11223344/11223344/83699.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY WAH
+http://rv.therevenge.co:80/565656/565656/83699?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY WAH
+http://rv.therevenge.co:80/live/242424/242424/83699.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY YAY
+http://rv.therevenge.co:80/live/242424/242424/83698.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY YAY
+http://rv.therevenge.co:80/565656/565656/83698?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY PAL
+http://rv.therevenge.co:80/565656/565656/83700?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY PAL
+http://rv.therevenge.co:80/live/242424/242424/83700.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY MAX HD
+http://185.71.64.167:80/307245103371/307245103371/83705?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY MAX HD
+http://rv.therevenge.co:80/565656/565656/83705?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY MAX HD
+http://rv.therevenge.co:80/live/242424/242424/83705.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY MAX HD
+http://rv.therevenge.co:80/live/11223344/11223344/83705.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY MAX 2
+http://185.71.64.167:80/307245103371/307245103371/83704?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY MAX 2
+http://rv.therevenge.co:80/565656/565656/83704?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY MAX 2
+http://rv.therevenge.co:80/live/11223344/11223344/83704.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: SONY BBC EARTH HD
+http://185.71.64.167:80/307245103371/307245103371/83702?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI SONY HD
+http://185.71.64.167:80/307245103371/307245103371/83706?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI SONY HD
+http://rv.therevenge.co:80/565656/565656/83706?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI SONY HD
+http://rv.therevenge.co:80/live/242424/242424/83706.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI SONY HD
+http://rv.therevenge.co:80/live/11223344/11223344/83706.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Sony Channel HD
+http://tv.factoryiptv.com:80/Fatima/Fatima1234/36987?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Sony Channel
+http://tv.factoryiptv.com:80/Fatima/Fatima1234/37007?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SONY CHANNEL HD
+http://rv.therevenge.co:80/565656/565656/82373?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SONY CHANNEL HD
+http://rv.therevenge.co:80/live/11223344/11223344/82373.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR PLUS HD
+http://rv.therevenge.co:80/565656/565656/83709?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR PLUS HD
+http://185.71.64.167:80/307245103371/307245103371/83709?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR PLUS HD
+http://rv.therevenge.co:80/live/242424/242424/83709.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR PLUS HD
+http://rv.therevenge.co:80/live/11223344/11223344/83709.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ZEE AFLAM
+http://rv.therevenge.co:80/live/11223344/11223344/79465.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ZEE AFLAM
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/22770.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ZEE AFLAM
+http://rv.therevenge.co:80/live/242424/242424/79465.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",ZEE AFLAM
+http://185.71.64.167:80/307245103371/307245103371/79465?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE ACTION
+http://rv.therevenge.co:80/565656/565656/83716?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE ACTION
+http://rv.therevenge.co:80/live/242424/242424/83716.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE ANMOL
+http://rv.therevenge.co:80/565656/565656/83628?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE ANMOL CINEMA
+http://185.71.64.167:80/307245103371/307245103371/83627?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE ANMOL CINEMA
+http://rv.therevenge.co:80/565656/565656/83627?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE CINEMA HD
+http://185.71.64.167:80/307245103371/307245103371/83714?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE CINEMA HD
+http://rv.therevenge.co:80/live/11223344/11223344/83714.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE CINEMA HD
+http://rv.therevenge.co:80/live/242424/242424/83714.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE CINEMA HD
+http://rv.therevenge.co:80/565656/565656/83714?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE ETC BOLLYWOOD
+http://rv.therevenge.co:80/565656/565656/83540?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE ETC BOLLYWOOD
+http://185.71.64.167:80/307245103371/307245103371/83540?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE TV HD
+http://rv.therevenge.co:80/live/11223344/11223344/83715.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE TV HD
+http://rv.therevenge.co:80/live/242424/242424/83715.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: ZEE TV HD
+http://rv.therevenge.co:80/565656/565656/83715?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: DISNEY INTERNATIONAL HD
+http://rv.therevenge.co:80/565656/565656/83602?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: DISNEY SD
+http://rv.therevenge.co:80/565656/565656/83609?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: DISNEY XD
+http://rv.therevenge.co:80/565656/565656/83597?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",KIDS: DISNEY CHANNEL
+http://rv.therevenge.co:80/565656/565656/85134?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",KIDS: DISNEY JUNIOR
+http://rv.therevenge.co:80/live/11223344/11223344/85129.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",KIDS: DISNEY JUNIOR
+http://rv.therevenge.co:80/565656/565656/85129?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",KIDS: DISNEY JUNIOR
+http://185.71.64.167:80/307245103371/307245103371/85129?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Kids",KIDS: DISNEY XD
+http://rv.therevenge.co:80/565656/565656/85133?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",SP: DISNEY+
+http://rv.therevenge.co:80/1234560/1234560/79332?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",SP: DISNEY+
+http://rv.therevenge.co:80/live/11223344/11223344/79332.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",SP: DISNEY+
+http://185.71.64.167:80/307245103371/307245103371/79332?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Disney Channel
+http://stream.streamhubtv.xyz:8080/marina/marina/48072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Disney XD
+http://stream.streamhubtv.xyz:8080/marina/marina/48074?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Disney XD HD
+http://stream.streamhubtv.xyz:8080/marina/marina/48075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL EAST
+http://stream.streamhubtv.xyz:8080/marina/marina/22502?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY JR EAST
+http://stream.streamhubtv.xyz:8080/marina/marina/22504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY JR
+http://rv.therevenge.co:80/live/11223344/11223344/81030.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY JR
+http://rv.therevenge.co:80/live/242424/242424/81030.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD
+http://rv.therevenge.co:80/live/11223344/11223344/81029.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD
+http://rv.therevenge.co:80/live/242424/242424/81029.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY XD
+http://rv.therevenge.co:80/live/11223344/11223344/81031.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY XD
+http://rv.therevenge.co:80/live/242424/242424/81031.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEY XD EAST
+http://stream.streamhubtv.xyz:8080/marina/marina/22506?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISNEYXD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR GOLD 2
+http://rv.therevenge.co:80/565656/565656/83542?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR GOLD 2
+http://185.71.64.167:80/307245103371/307245103371/83542?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR GOLD HD
+http://rv.therevenge.co:80/live/11223344/11223344/83711.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR GOLD HD
+http://rv.therevenge.co:80/565656/565656/83711?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR GOLD SELECT HD
+http://185.71.64.167:80/307245103371/307245103371/83710?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",HINDI: STAR GOLD SELECT HD
+http://rv.therevenge.co:80/565656/565656/83710?checkedby:iptvcat.com
