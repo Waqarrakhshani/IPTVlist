@@ -2,6 +2,9 @@
 #PLAYLIST:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",8XM HD
 http://rv.therevenge.co:80/565656/565656/84023?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",Peace Tv Urdu
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",8XM HD
 http://rv.therevenge.co:80/live/11223344/11223344/84023.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PK" tvg-logo="" group-title="Undefined",92 NEWS HD
