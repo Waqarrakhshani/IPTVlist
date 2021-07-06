@@ -1,0 +1,329 @@
+#EXTM3U
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News
+https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Undefined",92 News UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="Undefined",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="Undefined",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA;PK" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined",CA | TAG TV,TAG TV,Tag TV (Opt-1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Undefined",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="News",Dunya News
+https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/PbDBky1.png" group-title="Undefined",Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="Undefined",Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/Hw94SaM.jpg" group-title="Undefined",Kay 2,Kay2 TV,PK | Kay 2
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="Undefined",Kay 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/GYZGWFy.png" group-title="Undefined",Kay2 TV
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="Undefined",Khyber Middle East
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/mqFWpXX.png" group-title="Undefined",Khyber Middle East TV
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="Undefined",Khyber News
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/NL1cqS2.png" group-title="News;Undefined",Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="Undefined",Lahore News (Opt-2)
+http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/m8cS74j.png" group-title="Undefined",Minhaj TV
+http://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/m8cS74j.png" group-title="Undefined",Minhaj TV
+https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/YKiV4yR.png" group-title="PAKISTAN",PTV Home
+https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="PAKISTAN",PTV World
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Undefined",Tag TV (Opt-2)
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Undefined",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",& PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg" group-title="Music",Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/VCUhufk.jpg" group-title="Undefined",Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/cMJVuIr.jpg" group-title="Undefined",IN | Shemaroo Bollywood Classic,Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/t1O83T7.jpg" group-title="Undefined",IN | Shemaroo Punjabi TV,Shemaroo Punjabi TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",SHEMARRO KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",ZEE ALWAN (1280×720)
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",ZEE ALWAN (1280×720)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",92 News
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/43000?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",AAJ TAK SD
+http://satlok.xyz:8000/EERR07/ERKA0708/75374?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ALJAZEERA NEWS ENGLISH
+http://ultimateiptv.me:8080/amira/amira123/10879?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38639?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://ultimateiptv.me:8080/amira/amira123/11070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ARY Family SD
+http://satlok.xyz:8000/EERR07/ERKA0708/75379?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Action Movies
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24441?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Animal Planet
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158477?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",B4u Music FHD
+http://siptv.snserver.stream:8080/irfan41/irfan4141/38480?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 1 HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38561?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC Entertainment
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/6718?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/36258?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BOOMERANG
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38571?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BOOMERANG
+http://mains.services:2086/live/mikekoot/1757909/100031.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://mains.services:2086/live/mikekoot/1757909/98707.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38570?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38572?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CARTOONITO
+http://mains.services:2086/live/mikekoot/1757909/98706.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CRIME & INVESTIGATION
+http://mains.services:2086/live/mikekoot/1757909/98704.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Cartoon Network +1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158570?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Comedy Movies
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24449?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Crime Investigation +1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/257131?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://mains.services:2086/live/mikekoot/1757909/32042.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38574?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISNEY XD
+http://ultimateiptv.me:8080/amira/amira123/11055?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+http://ultimateiptv.me:8080/amira/amira123/11058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Disney Junior
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/12984?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Dunya News
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/103116?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FILM4
+http://mains.services:2086/live/mikekoot/1757909/66975.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOX HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38605?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",FOX SPORTS 2 HD
+http://ultimateiptv.me:8080/amira/amira123/4157?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Family Movies
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24456?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",GEO Kahani
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184661?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",GEO TV (UK)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/31034?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",HISTORY HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38677?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",INVESTIGATION DISCOVERY (ID)
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38679?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",IQRA TV (UK)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/81613?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ISLAM CHANNEL (UK)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/31188?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Investigation Discovery
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Islam TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/81611?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MOVIES 24
+http://mains.services:2086/live/mikekoot/1757909/98695.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Undefined",MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV
+http://mains.services:2086/live/mikekoot/1757909/67073.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Movie Kingdom
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/13163?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Movies Central
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24475?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NAT GEO
+http://mains.services:2086/live/mikekoot/1757909/98691.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NASA TV [HD]
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://ultimateiptv.me:8080/amira/amira123/11299?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NAT GEO WILD
+http://mains.services:2086/live/mikekoot/1757909/67074.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NAT GEO HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38636?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NICK
+http://mains.services:2086/live/mikekoot/1757909/91784.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NICK JR TOO
+http://mains.services:2086/live/mikekoot/1757909/67072.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NICK JUNIOR
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38580?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NICK TOONS
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38582?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NOOR TV
+http://mains.services:2086/live/mikekoot/1757909/67021.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NICKTOONS
+http://mains.services:2086/live/mikekoot/1757909/98694.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nat Geo +1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/257129?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Netflix Drama HD
+http://siptv.snserver.stream:8080/irfan41/irfan4141/37631?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Netflix Family HD
+http://siptv.snserver.stream:8080/irfan41/irfan4141/37632?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Netflix HD 15
+http://siptv.snserver.stream:8080/irfan41/irfan4141/37641?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Netflix HD 8
+http://siptv.snserver.stream:8080/irfan41/irfan4141/37647?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nick Jr
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/13011?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nickelodeon
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/13012?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nickelodeon +1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158576?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",PEACE TV URDU (UK)
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/81608?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Paramount
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158399?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Planet Knowledge
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24477?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA DISNEY
+http://ultimateiptv.me:8080/amira/amira123/11245?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA FAMILY
+http://mains.services:2086/live/mikekoot/1757909/87575.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA BLOCKBUSTERS
+http://mains.services:2086/live/mikekoot/1757909/87580.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA PREMIERE
+http://mains.services:2086/live/mikekoot/1757909/87578.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY MOVIES COMEDY
+http://satlok.xyz:8000/EERR07/ERKA0708/75347?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY MOVIES FAMILY
+http://satlok.xyz:8000/EERR07/ERKA0708/75348?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY Channel HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/81633?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MAX
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158698?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MAX 2
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184644?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MOVIES ACTION
+http://ultimateiptv.me:8080/amira/amira123/11007?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY SAB
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184642?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY Max FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184643?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY SET MAX
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/33755?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SONY SIX SPORT
+http://ultimateiptv.me:8080/amira/amira123/4160?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY TV FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158444?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",STAR SPORTS 1 HINDI HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/82039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SPORTSNET WORLD
+http://ultimateiptv.me:8080/amira/amira123/4153?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SPORTS TONIGHT
+http://mains.services:2086/live/mikekoot/1757909/99205.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Action
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/257101?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Animation HD
+http://sofadad.co.uk:80/Sarah123/Sarah123/11257?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Cricket
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/81806?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Action
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158335?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Channel
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158337?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Channel +1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158338?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Entertainment
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158445?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Movies Classic +1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184605?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Movies +1
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158334?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Movies UK
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/9528?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Sab UK
+http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/15895?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sports Channel Network
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24490?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Star Bharat
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184645?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Star GOLD HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184662?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Star Gold
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38601?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Star Plus HD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184648?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Supertoons TV
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24493?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TCM Movies
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184606?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLC
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/13058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TRUE ENTERTAINMENT
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38634?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TRUE MOVIES
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38599?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TalkingPictures
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158340?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Toongoggles
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/24499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UNIVERSAL HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38691?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Universal Channel HD
+http://usignolo020.ddns.net:80/GP0gFbAQOn/k5NYYRarRZ/88271?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & ACTION MOVIES
+http://satlok.xyz:8000/EERR07/ERKA0708/75505?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & FAST AND FURIOUS
+http://satlok.xyz:8000/EERR07/ERKA0708/75519?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & BOXING MOVIES
+http://satlok.xyz:8000/EERR07/ERKA0708/75507?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & DUCK DYNASTY
+http://satlok.xyz:8000/EERR07/ERKA0708/75523?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & INDIANA JONES
+http://satlok.xyz:8000/EERR07/ERKA0708/75512?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & JACKIE CHAN MOVIES
+http://satlok.xyz:8000/EERR07/ERKA0708/75508?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & JAMES BOND
+http://satlok.xyz:8000/EERR07/ERKA0708/75509?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & JASON BOURNE
+http://satlok.xyz:8000/EERR07/ERKA0708/75510?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & SUPERHERO MOVIES
+http://satlok.xyz:8000/EERR07/ERKA0708/75499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & TRANSFORMERS
+http://satlok.xyz:8000/EERR07/ERKA0708/75497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & TWILIGHT
+http://satlok.xyz:8000/EERR07/ERKA0708/75496?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & X MEN
+http://satlok.xyz:8000/EERR07/ERKA0708/75489?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",VIP & WAR MOVIES
+http://satlok.xyz:8000/EERR07/ERKA0708/75494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Venus TV
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184672?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Venus TV SD
+http://satlok.xyz:8000/EERR07/ERKA0708/75463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",WWE NETWORK
+http://ultimateiptv.me:8080/amira/amira123/4176?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ZEE Cinema FHD
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158697?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ZEE TV UK
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/184641?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Zee Cafe HD
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/13161?checkedby:iptvcat.com
